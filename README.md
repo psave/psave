@@ -20,5 +20,5 @@ Follow me on:
 ![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <a href="https://twitter.com/PaulWSave">
-![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)>
 </a>
