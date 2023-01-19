@@ -19,8 +19,10 @@ I am an AI/ML product manager who also works on fun data science side projects a
 
 <H4>More on Cascadia Data Science Institute:</H4>
 Our goal is to be the professional network for AI/ML product managers, researchers, and practitioners. <br>
-<b>Vision:</b> A world where the benefits of AI/ML are equally accessible to all, regardless of race, gender, or socio-economic background.<br>
-<b>Mission:</b> We bring together current and future AI/ML leaders in product, research, data science, data engineering, and MLOps to learn together and support each other in honing our specialties so that we can advance our careers and humanity.
+<ul>
+  <li><b>Vision:</b> A world where the benefits of AI/ML are equally accessible to all, regardless of race, gender, or socio-economic background.
+  <li><b>Mission:</b> We bring together current and future AI/ML leaders in product, research, data science, data engineering, and MLOps to learn together and support each other in honing our specialties so that we can advance our careers and humanity.
+</ul>
 
 Follow me on:
 
