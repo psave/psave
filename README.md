@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://www.kaggle.com/paulwsave)
 -->
-I am an AI/ML product manager who also works on fun data science side projects and Kaggle competitions. I founded <a href="https://www.datascienceinstitute.ai/">Cascadia Data Science Institute</a> in 2018. The repos in my Github are quite old and not reflective of what I have been working on - most of my work is in Kaggle and on my Colab Notebooks. 
+I am an AI/ML product manager who also works on fun data science side projects and Kaggle competitions. I founded <a href="https://www.datascienceinstitute.ai/">Cascadia Data Science Institute</a> in 2018. The repos in my Github are quite old and not reflective of what I have been working on - most of my work is in Kaggle and in [Google Colab](https://colab.research.google.com/drive/1xCtfYAs9WfeU5rCDsnYD1t3cK6P22Q0W?usp=sharing). 
 
 <H4>More on Cascadia Data Science Institute:</H4>
 Our goal is to be the professional network for AI/ML product managers, researchers, and practitioners. <br>
